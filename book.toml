@@ -1,0 +1,9 @@
+[book]
+authors = ["mengboy"]
+language = "zh"
+multilingual = false
+src = "src"
+title = "算法学习笔记"
+
+[output.html]
+mathjax-support = true
